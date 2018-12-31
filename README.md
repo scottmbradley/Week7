@@ -32,7 +32,7 @@ Time spent: 8 hours spent in total
     
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
-    - Vulnerability types:
+    - Vulnerability types: 
     - Tested in version:
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
