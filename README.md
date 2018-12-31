@@ -26,17 +26,21 @@ Time spent: 8 hours spent in total
     - Tested in version: 4.0
     - Fixed in version: 4.1
   - [ ] GIF Walkthrough: 
+  
+  https://github.com/scottmbradley/Week7/blob/master/week%207%20assignment%20%23%202.gif
+  
   - [ ] Steps to recreate: Uploaded code and ran code
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
     
-1. (Required) Vulnerability Name or ID
+1. (Required) Vulnerability Name or ID <IFRAME SRC="javascript:alert('XSS');"></IFRAME>
   - [ ] Summary: 
-    - Vulnerability types: 
-    - Tested in version:
-    - Fixed in version: 
+    - Vulnerability types: XSS
+    - Tested in version: 4.0
+    - Fixed in version: 4.1
   - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+  
+  - [ ] Steps to recreate: Uploaded code and ran code
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Optional) Vulnerability Name or ID
