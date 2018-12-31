@@ -15,9 +15,6 @@ Time spent: 8 hours spent in total
   
   https://github.com/scottmbradley/Week7/blob/master/week%207%20assignment%20%231.gif
 
-￼
-
-
   - [ ] Steps to recreate: Upload JPG to attachment page, Change text to Cross-Site Scripting payload.
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
