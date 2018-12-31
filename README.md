@@ -20,15 +20,16 @@ Time spent: 8 hours spent in total
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
 
-1. (Required) Vulnerability Name or ID
+1. (Required) Vulnerability Name or ID  <INPUT TYPE="BUTTON" ONCLICK="alert('XSS')"/>
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
+    - Vulnerability types: XSS
+    - Tested in version: 4.0
+    - Fixed in version: 4.1
   - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+  - [ ] Steps to recreate: Uploaded code and ran code
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
