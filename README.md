@@ -13,7 +13,7 @@ Time spent: 8 hours spent in total
     - Fixed in version: 4.1
   - [ ] GIF Walkthrough: 
   
-  
+  https://github.com/scottmbradley/Week7/blob/master/week%207%20assignment%20%231.gif
 
 ￼
 
