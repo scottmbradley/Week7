@@ -40,6 +40,8 @@ Time spent: 8 hours spent in total
     - Fixed in version: 4.1
   - [ ] GIF Walkthrough: 
   
+  
+  
   - [ ] Steps to recreate: Uploaded code and ran code
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
