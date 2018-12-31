@@ -40,7 +40,7 @@ Time spent: 8 hours spent in total
     - Fixed in version: 4.1
   - [ ] GIF Walkthrough: 
   
-  
+  https://github.com/scottmbradley/Week7/blob/master/week%207%20assignment%20%233.gif
   
   - [ ] Steps to recreate: Uploaded code and ran code
   - [ ] Affected source code:
@@ -81,7 +81,7 @@ Describe any challenges encountered while doing the work
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Scott M. Bradley]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
